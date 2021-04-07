@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "outDir": "./site/static/js",
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
